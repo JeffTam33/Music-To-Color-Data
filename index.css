@@ -1,0 +1,32 @@
+/*
+  font-family: orbitron, monospace
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Inspiration&family=Lato:wght@300&family=Luxurious+Roman&family=Playfair+Display&family=Poppins:wght@100&family=Quicksand&display=swap');
+
+body {
+  background-color: #171A21;
+  font-family: orbitron, monospace;
+}
+
+header {
+  position: fixed;
+  background-color: #3A1772;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+li {
+  margin: 0px 30px auto 30px;
+  list-style: none;
+  float: left;
+  font-size: 30px;
+}
